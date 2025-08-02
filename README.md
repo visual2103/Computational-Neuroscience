@@ -9,12 +9,12 @@ The pipeline includes all major preprocessing steps—such as **band-pass filter
 
 The primary focus is on the extraction and analysis of **gamma-band (40 Hz)** activity, which is hypothesized to reflect neural mechanisms involved in **visual awareness**, **attention**, and **perceptual integration**.
 
-## 🚀 Features
+## Features
 - Compatible with FieldTrip data structures  
 - Automatic trial rejection based on variance thresholding  
 - ICA configuration and manual component selection  
 - Event-related segmentation (ERP/ERSP-ready)  
 - Supports experimental structure from Dots_30 protocol  
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 Special thanks to TINS Cluj-Napoca and UTCN .

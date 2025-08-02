@@ -18,5 +18,5 @@ The primary focus is on the extraction and analysis of **gamma-band (40 Hz)** ac
 - Event-related segmentation (ERP/ERSP-ready)  
 - Supports experimental structure from Dots_30 protocol  
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 Special thanks to TINS Cluj-Napoca and TUCN .

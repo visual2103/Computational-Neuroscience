@@ -1,5 +1,6 @@
-# Computational-Neuroscience  
-**EEG Preprocessing Pipeline for Visual Perception Analysis**
+# Computational-Neuroscience  -  Research Project 
+**EEG Preprocessing Pipeline for Visual Perception Analysis** 
+This is a basic research project about how the brain responds to visual stimuli, using EEG data.
 
 This repository presents the development of a complete EEG preprocessing pipeline designed for the **Dots_30 visual perception experiment**, which investigates brain activity related to stimulus visibility and perceptual awareness.
 

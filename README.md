@@ -18,5 +18,20 @@ The primary focus is on the extraction and analysis of **gamma-band (40 Hz)** ac
 - Event-related segmentation (ERP/ERSP-ready)  
 - Supports experimental structure from Dots_30 protocol  
 
+## 📋 Acces Repozitoriu / Repository Access
+
+**Răspuns la întrebare: "ai acces la acest repo?"**
+
+Da, repozitoriul este accesibil și poate fi citit. Acesta este un proiect de cercetare academic dezvoltat la TUCN, care descrie un pipeline de preprocesare EEG pentru analiza percepției vizuale.
+
+**Answer to question: "do you have access to this repo?"**
+
+Yes, the repository is accessible and readable. This is an academic research project developed at TUCN, describing an EEG preprocessing pipeline for visual perception analysis.
+
+### Status Actual / Current Status
+- ✅ Documentație disponibilă / Documentation available
+- ⏳ Codul în curs de dezvoltare / Code under development
+- 📚 Bazat pe MATLAB și FieldTrip / Based on MATLAB and FieldTrip
+
 ## 🙏 Acknowledgments
 Special thanks to TINS Cluj-Napoca and TUCN .
